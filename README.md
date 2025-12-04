@@ -33,7 +33,9 @@ periodic_table/
 
 ## Requirements
 Streamlit
+
 pandas
+
 matplotlib
 
 ## Data
