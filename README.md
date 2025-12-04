@@ -34,9 +34,3 @@ periodic_table/
 ## Data
 The project uses a simple CSV file (elements_118.csv) containing the atomic number, symbol, and name of all 118 elements. If you want a full dataset (mass, radius, electronegativity, etc.), you can expand the CSV and the app will display the extra fields automatically.
 Improve electron configuration accuracy for more exceptions
-
-🤝 Contributing
-
-If someone wants to add features, clean up the UI, or help expand the dataset, feel free. The project is intentionally simple so others can learn from it or play with it.
-
-If you want alternate versions — more funny, more formal, more “startup pitch” style, more academic — just tell me and I’ll rewrite it.
