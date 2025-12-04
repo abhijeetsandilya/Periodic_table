@@ -31,6 +31,11 @@ periodic_table/
 ├── elements_118.csv     # Element data
 └── requirements.txt
 
+## Requirements
+Streamlit
+pandas
+matplotlib
+
 ## Data
 The project uses a simple CSV file (elements_118.csv) containing the atomic number, symbol, and name of all 118 elements. If you want a full dataset (mass, radius, electronegativity, etc.), you can expand the CSV and the app will display the extra fields automatically.
 Improve electron configuration accuracy for more exceptions
