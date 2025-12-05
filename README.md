@@ -38,6 +38,41 @@ pandas
 
 matplotlib
 
+## How to Run
+
+Make sure you have Python 3.9+ installed.
+
+### 1. Install the libraries manually
+
+Run these commands in your terminal:
+
+pip install streamlit
+pip install pandas
+pip install matplotlib
+
+### 2. Go to the project folder
+
+In your terminal, navigate to the directory containing app.py:
+
+cd path/to/your/project
+
+
+Example:
+
+cd C:\Users\YourName\PycharmProjects\periodic_table
+
+### 3. Start the app
+
+Run Streamlit:
+
+streamlit run app.py
+
+### 4. Open in browser
+
+Streamlit will open automatically, or you can visit:
+
+http://localhost:8501
+
 ## Data
 The project uses a simple CSV file (elements_118.csv) containing the atomic number, symbol, and name of all 118 elements. If you want a full dataset (mass, radius, electronegativity, etc.), you can expand the CSV and the app will display the extra fields automatically.
 Improve electron configuration accuracy for more exceptions
