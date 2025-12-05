@@ -58,11 +58,6 @@ In your terminal, navigate to the directory containing app.py:
 
 cd path/to/your/project
 
-
-Example:
-
-cd C:\Users\YourName\PycharmProjects\periodic_table
-
 ### 3. Start the app
 
 Run Streamlit:
