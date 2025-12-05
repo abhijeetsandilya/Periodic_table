@@ -1,6 +1,5 @@
 # Periodic_table
 A simple, interactive Periodic Table explorer built with Python and Streamlit. You can click any element to view its basic details, see a Bohr-style shell diagram, and check its electron configuration.
-🎛️ Periodic Table Explorer
 
 This is a small interactive periodic table built with Python and Streamlit.
 You can click any element to see its details, look at a simple Bohr-style shell diagram, and view its electron configuration. The goal of the project was mainly to learn Streamlit, organize code into modules, and make something visual and fun.
