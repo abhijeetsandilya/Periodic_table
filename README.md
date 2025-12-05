@@ -47,7 +47,9 @@ Make sure you have Python 3.9+ installed.
 Run these commands in your terminal:
 
 pip install streamlit
+
 pip install pandas
+
 pip install matplotlib
 
 ### 2. Go to the project folder
